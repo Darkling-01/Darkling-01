@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darkling-01    (Alejandro Barragan)
-- 👀 I’m interested in Computer Graphics, software development, and data science.
+- 👀 I’m interested in Computer Graphics, Software Development, and Data Science.
 - 🌱 I’m currently learning Computer Graphics using OpenGL with C++. 
-- 💞️ I’m looking to collaborate on software development projects or Computer Graphics projects.
+- 💞️ I’m looking to collaborate on Software Development or Data Science projects.
 - 📫 How to reach me Email: 007158678@coyote.csusb.edu
 
 <!---
