@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Graphics, Software Development, and Data Science.
 - 🌱 I’m currently learning Computer Graphics using OpenGL with C++. 
 - 💞️ I’m looking to collaborate on Software Development or Data Science projects.
-- 📫 How to reach me Email: 007158678@coyote.csusb.edu
+- 📫 How to reach me Email: barragan13al@gmail.com
 
 <!---
 Darkling-01/Darkling-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
